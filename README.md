@@ -9,7 +9,7 @@
 
 **Transform text into natural speech and convert speech back to text using cutting-edge AI technology**
 
-[🚀 Live Demo](#live-demo) • [📱 Download APK](#download-apk) • [🛠️ Installation](#installation) • [🎯 Features](#features)
+[🚀 Live Demo](#live-demo) • [📱 Download APK](https://expo.dev/accounts/tharunrega/projects/TextToSpeech/builds/df25e671-4208-4b2f-a2e6-a9c3e6a38482) • [🛠️ Installation](#installation) • [🎯 Features](#features)
 
 </div>
 
@@ -99,7 +99,7 @@ TextToSpeech is a modern React Native mobile application that leverages **Eleven
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/texttospeech-app.git
+   git clone https://github.com/tharunrega/texttospeech-app.git
    cd texttospeech-app
    ```
 
@@ -264,22 +264,22 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Support
 
 - **Email**: support@kahanikids.com
-- **Issues**: [GitHub Issues](https://github.com/yourusername/texttospeech-app/issues)
-- **Documentation**: [Wiki](https://github.com/yourusername/texttospeech-app/wiki)
+- **Issues**: [GitHub Issues](https://github.com/tharunrega/texttospeech-app/issues)
+- **Documentation**: [Wiki](https://github.com/tharunrega/texttospeech-app/wiki)
 
 ## 🔗 Links
 
-- [Live Demo](https://expo.dev/@yourusername/texttospeech)
+- [Live Demo](https://expo.dev/@tharunrega/texttospeech)
 - [API Documentation](https://elevenlabs.io/docs)
 - [Expo Documentation](https://docs.expo.dev/)
 - [React Native Docs](https://reactnative.dev/docs/getting-started)
 
 ## 📊 Project Stats
 
-![GitHub stars](https://img.shields.io/github/stars/yourusername/texttospeech-app)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/texttospeech-app)
-![GitHub issues](https://img.shields.io/github/issues/yourusername/texttospeech-app)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/yourusername/texttospeech-app)
+![GitHub stars](https://img.shields.io/github/stars/tharunrega/texttospeech-app)
+![GitHub forks](https://img.shields.io/github/forks/tharunrega/texttospeech-app)
+![GitHub issues](https://img.shields.io/github/issues/tharunrega/texttospeech-app)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/tharunrega/texttospeech-app)
 
 ---
 
@@ -287,6 +287,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Built with ❤️ by the [Kahani Kids Team](https://github.com/kahanikids)**
 
-[⭐ Star this repo](https://github.com/yourusername/texttospeech-app) • [🐛 Report an issue](https://github.com/yourusername/texttospeech-app/issues) • [📖 View documentation](https://github.com/yourusername/texttospeech-app/wiki)
+[⭐ Star this repo](https://github.com/tharunrega/texttospeech-app) • [🐛 Report an issue](https://github.com/tharunrega/texttospeech-app/issues) • [📖 View documentation](https://github.com/tharunrega/texttospeech-app/wiki)
 
 </div> 
